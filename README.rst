@@ -57,6 +57,13 @@ Parts of the Patchwork client are derived from Leadlight, a Patchwork
 TUI client; see ``NOTICE``.
 
 
+Contribution
+^^^^^^
+
+Open issues and PRs upstream at
+`fuzzfactor/leadtestkit <https://github.com/fuzzfactor/leadtestkit>`_.
+
+
 License
 -------
 
